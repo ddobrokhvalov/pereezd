@@ -1,0 +1,1 @@
+Разработка <a href="https://it-rkomi.ru/" target="_blank">«Информационные технологии»</a>

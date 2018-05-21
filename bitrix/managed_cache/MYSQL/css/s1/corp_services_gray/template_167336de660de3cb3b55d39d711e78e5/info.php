@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/js/main/core/css/core_panel.css" => "152637763262290","/bitrix/templates/corp_services_gray/components/bitrix/news.list/mainpage_services/style.css" => "1526395179150","/bitrix/js/fileman/sticker.css" => "152637763824594",)); ?>
