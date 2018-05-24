@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001526498900';
-$dateexpire = '001562498900';
+$datecreate = '001527071797';
+$dateexpire = '001563071797';
 $ser_content = 'a:2:{s:7:"CONTENT";s:1774:"
 <section class="home-our-advantages">
     <div class="wrapper clearfix">
